@@ -3,7 +3,7 @@
 }
 .orange-bg{
     background-color: #fceae8;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 .carousel-item{
     padding: 20px 40px;
@@ -19,4 +19,38 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.cat1{
+    background-image: linear-gradient(orange 30%, yellow);
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.cat2{
+    background-image: linear-gradient(pink 0%, purple);
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.cat3{
+    background-image: linear-gradient(blue 30%, skyblue);
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.categories h1{
+    color: whitesmoke;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px;
+}
+#Contact{
+    height: 300px;
+}
+#Contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
